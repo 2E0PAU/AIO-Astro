@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "collected_on": "2026-10-21",
+  "project_url": "https://www.hnsky.org/astap.htm",
+  "solver_version": "CLI-2026.09.01",
+  "source_revision": "4494424c80762eb4ed36ea41309eec93a2d9f8ac",
+  "source_relationship": "Source snapshot and binary strings report the same version; a reproducible binary-to-source build has not been verified.",
+  "assets": [
+    {
+      "file": "downloads/astap-cli-macos-arm64.zip",
+      "size_bytes": 1308120,
+      "sha256": "6a59b61c3b9fac987ab5b8241cbd4bffacc05816f58097f52ad1e6bd733cbc45",
+      "urls": [
+        "https://netix.dl.sourceforge.net/project/astap-program/macOS%20installer/astap_command-line_version_macOS_M1.zip",
+        "https://altushost-swe.dl.sourceforge.net/project/astap-program/macOS%20installer/astap_command-line_version_macOS_M1.zip",
+        "https://downloads.sourceforge.net/project/astap-program/macOS%20installer/astap_command-line_version_macOS_M1.zip"
+      ],
+      "upstream_sha256": "6a59b61c3b9fac987ab5b8241cbd4bffacc05816f58097f52ad1e6bd733cbc45",
+      "upstream_checksum_url": "https://sourceforge.net/projects/astap-program/files/macOS%20installer/astap_command-line_version_macOS_M1.zip/download"
+    },
+    {
+      "file": "downloads/astap-cli-macos-x86_64.zip",
+      "size_bytes": 1424473,
+      "sha256": "3cc08ef3f823dd02bcbde2a0b8247db2f24607777e63adaea0a4fe578f6db343",
+      "urls": [
+        "https://netix.dl.sourceforge.net/project/astap-program/macOS%20installer/astap_command-line_version_macOS_x86_64.zip",
+        "https://altushost-swe.dl.sourceforge.net/project/astap-program/macOS%20installer/astap_command-line_version_macOS_x86_64.zip",
+        "https://downloads.sourceforge.net/project/astap-program/macOS%20installer/astap_command-line_version_macOS_x86_64.zip"
+      ],
+      "upstream_sha256": "3cc08ef3f823dd02bcbde2a0b8247db2f24607777e63adaea0a4fe578f6db343",
+      "upstream_checksum_url": "https://sourceforge.net/projects/astap-program/files/macOS%20installer/astap_command-line_version_macOS_x86_64.zip/download"
+    },
+    {
+      "file": "downloads/astap-manual.html",
+      "size_bytes": 391844,
+      "sha256": "d547b04248b67def134410f1a7e26bef03f5733bd2689d98db112676fd5ded70",
+      "urls": [
+        "https://www.hnsky.org/astap.htm"
+      ],
+      "upstream_sha256": null
+    },
+    {
+      "file": "downloads/astap-source-4494424c80762eb4ed36ea41309eec93a2d9f8ac.zip",
+      "size_bytes": 13057672,
+      "sha256": "de111ef087e6bc648fa0e38cbf2e1166b457b76170b1e9f86db2afbad9323169",
+      "urls": [
+        "https://sourceforge.net/code-snapshots/hg/a/as/astap-program/code/astap-program-code-4494424c80762eb4ed36ea41309eec93a2d9f8ac.zip?download=1"
+      ],
+      "upstream_sha256": null
+    },
+    {
+      "file": "downloads/d80-star-database.pkg",
+      "size_bytes": 1298466163,
+      "sha256": "f5450f8ace768a5765103af3de5ecd409589bd066d1f3fca79477020e9ff20de",
+      "upstream_sha256": "f5450f8ace768a5765103af3de5ecd409589bd066d1f3fca79477020e9ff20de",
+      "urls": [
+        "https://netix.dl.sourceforge.net/project/astap-program/star_databases/d80_star_database.pkg",
+        "https://altushost-swe.dl.sourceforge.net/project/astap-program/star_databases/d80_star_database.pkg",
+        "https://downloads.sourceforge.net/project/astap-program/star_databases/d80_star_database.pkg"
+      ],
+      "upstream_checksum_url": "https://sourceforge.net/projects/astap-program/files/star_databases/d80_star_database.pkg/download"
+    },
+    {
+      "file": "downloads/g05-star-database.zip",
+      "size_bytes": 101635930,
+      "sha256": "2e00b5b327b967570415fd3a0b99067e1d687c819fb049e42c374e56b6fa3f0a",
+      "urls": [
+        "https://netix.dl.sourceforge.net/project/astap-program/star_databases/g05_star_database.zip",
+        "https://altushost-swe.dl.sourceforge.net/project/astap-program/star_databases/g05_star_database.zip",
+        "https://downloads.sourceforge.net/project/astap-program/star_databases/g05_star_database.zip"
+      ],
+      "upstream_sha256": "2e00b5b327b967570415fd3a0b99067e1d687c819fb049e42c374e56b6fa3f0a",
+      "upstream_checksum_url": "https://sourceforge.net/projects/astap-program/files/star_databases/g05_star_database.zip/download"
+    },
+    {
+      "file": "downloads/w08-star-database.zip",
+      "size_bytes": 327319,
+      "sha256": "4bdc6a563909a4dfaaa2aa25d9b87b6e364f97418973c536df68ce79526e66a5",
+      "urls": [
+        "https://netix.dl.sourceforge.net/project/astap-program/star_databases/w08_star_database_mag08_astap.zip",
+        "https://altushost-swe.dl.sourceforge.net/project/astap-program/star_databases/w08_star_database_mag08_astap.zip",
+        "https://downloads.sourceforge.net/project/astap-program/star_databases/w08_star_database_mag08_astap.zip"
+      ],
+      "upstream_sha256": "4bdc6a563909a4dfaaa2aa25d9b87b6e364f97418973c536df68ce79526e66a5",
+      "upstream_checksum_url": "https://sourceforge.net/projects/astap-program/files/star_databases/w08_star_database_mag08_astap.zip/download"
+    },
+    {
+      "file": "notices/MPL-2.0.txt",
+      "size_bytes": 16726,
+      "sha256": "fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85",
+      "urls": [
+        "https://www.mozilla.org/media/MPL/2.0/index.815ca599c9df.txt"
+      ],
+      "upstream_sha256": null
+    },
+    {
+      "file": "notices/astap-copyright.txt",
+      "size_bytes": 276,
+      "sha256": "fb071bdac4db2ea5e4a8f7a2996def6195d63f538eef6e44b28da9bed9ed76c5",
+      "urls": [
+        "https://sourceforge.net/p/astap-program/code/ci/4494424c80762eb4ed36ea41309eec93a2d9f8ac/tree/copyright.txt?format=raw"
+      ],
+      "upstream_sha256": null
+    },
+    {
+      "file": "notices/database-readme.txt",
+      "size_bytes": 8360,
+      "sha256": "0a307871b3cd79d1db817a93959a2f90b801e2f565038043073f69483d03092c",
+      "urls": [
+        "https://netix.dl.sourceforge.net/project/astap-program/star_databases/readme%20astap.txt",
+        "https://altushost-swe.dl.sourceforge.net/project/astap-program/star_databases/readme%20astap.txt",
+        "https://downloads.sourceforge.net/project/astap-program/star_databases/readme%20astap.txt"
+      ],
+      "upstream_sha256": null
+    },
+    {
+      "file": "notices/macos-readme.txt",
+      "size_bytes": 1971,
+      "sha256": "29bdeb66d30339da8a5819b73952acd4825f0edc2fcb2dfcb98aa594e9bf5fab",
+      "urls": [
+        "https://netix.dl.sourceforge.net/project/astap-program/macOS%20installer/readme.txt",
+        "https://altushost-swe.dl.sourceforge.net/project/astap-program/macOS%20installer/readme.txt",
+        "https://downloads.sourceforge.net/project/astap-program/macOS%20installer/readme.txt"
+      ],
+      "upstream_sha256": null
+    }
+  ]
+}

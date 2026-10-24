@@ -1,2 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Preserve upstream headers, licences and notices byte for byte, including whitespace.
+vendor/**/include/** -text -whitespace
+vendor/**/notices/** -text -whitespace
+vendor/**/LICENSE.txt -text -whitespace
+vendor/**/LIBUSB-LICENSE.txt -text -whitespace
+src/aio_astro/data/*LICENSE* -text -whitespace
+src/aio_astro/data/CC-BY-SA-4.0.txt -text -whitespace

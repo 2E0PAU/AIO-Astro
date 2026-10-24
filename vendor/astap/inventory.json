@@ -1,0 +1,79 @@
+{
+  "checked_on": "2026-10-21",
+  "zip_integrity": [
+    {
+      "archive": "downloads/astap-cli-macos-arm64.zip",
+      "member_count": 1,
+      "uncompressed_bytes": 5179030,
+      "executable_sha256": "5bcf32fb6766451062b6816f1860c9900b21d789f39968868ed352dc5223e4af",
+      "executable_member": "astap_cli"
+    },
+    {
+      "archive": "downloads/astap-cli-macos-x86_64.zip",
+      "member_count": 1,
+      "uncompressed_bytes": 5350264,
+      "executable_sha256": "1511e9ea69c0e2c2df11aaac0800e09141550f6abddab47e789f86d3224916a4",
+      "executable_member": "astap_cli"
+    },
+    {
+      "archive": "downloads/astap-source-4494424c80762eb4ed36ea41309eec93a2d9f8ac.zip",
+      "member_count": 179,
+      "uncompressed_bytes": 19374748
+    },
+    {
+      "archive": "downloads/g05-star-database.zip",
+      "member_count": 291,
+      "uncompressed_bytes": 105423065
+    },
+    {
+      "archive": "downloads/w08-star-database.zip",
+      "member_count": 1,
+      "uncompressed_bytes": 495184
+    }
+  ],
+  "d80_package": {
+    "archive": "downloads/d80-star-database.pkg",
+    "tool": "pkgutil --payload-files",
+    "star_tile_count": 1476,
+    "packaging_allowlist": "d80_[0-9][0-9][0-9][0-9].1476",
+    "other_payload_files_excluded_from_runtime": [
+      "hyperleda.csv",
+      "variable_stars.csv",
+      "acknowledgement of databases.txt",
+      "hyperleda.txt",
+      "deep_sky.csv"
+    ],
+    "extraction_checked": true,
+    "star_tile_uncompressed_bytes": 1332217055
+  },
+  "binary_inspection": {
+    "method": "file and otool -L; binaries not executed",
+    "architectures": {
+      "astap-cli-macos-arm64.zip": "arm64",
+      "astap-cli-macos-x86_64.zip": "x86_64"
+    },
+    "reported_version_strings": "2026.09.01",
+    "dynamic_dependencies": [
+      "AppKit.framework",
+      "Foundation.framework",
+      "CoreFoundation.framework",
+      "/usr/lib/libSystem.B.dylib"
+    ]
+  },
+  "preserved_embedded_notices": [
+    {
+      "file": "notices/g05-acknowledgements.txt",
+      "archive": "downloads/g05-star-database.zip",
+      "member": "acknowledgement of databases.txt",
+      "sha256": "26d61204ffbb59a28037964b65fd493d6ea81295b9183ece1567570529e12519",
+      "size_bytes": 34645
+    },
+    {
+      "file": "notices/d80-acknowledgements.txt",
+      "archive": "downloads/d80-star-database.pkg",
+      "member_basename": "acknowledgement of databases.txt",
+      "sha256": "815cef62d1c05161ae4a5fd2cd626f4abf9916532cfd359019972e4a834789d8",
+      "size_bytes": 34633
+    }
+  ]
+}

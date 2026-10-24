@@ -1,0 +1,14 @@
+{
+  "collected_on": "2026-10-21",
+  "version": "1.8.1",
+  "assets": [
+    {
+      "file": "downloads/EAF_SDK.zip",
+      "size_bytes": 33095244,
+      "sha256": "52e1bbb97fc7d7063ead125adb8bb920b675d1bda55ddb9275f67f575d0ccc9f",
+      "urls": [
+        "https://dl.zwoastro.com/software?app=DeveloperEafSdk&platform=mac&region=Overseas"
+      ]
+    }
+  ]
+}

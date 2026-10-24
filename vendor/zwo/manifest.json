@@ -1,0 +1,21 @@
+{
+  "collected_on": "2026-10-21",
+  "assets": [
+    {
+      "file": "downloads/ASI_Camera_SDK_1.41.zip",
+      "urls": [
+        "https://dl.zwoastro.com/software?app=DeveloperCameraSdk&platform=mac&region=Overseas"
+      ],
+      "size_bytes": 112224701,
+      "sha256": "c6d59bf2de5b807f13d60d10b035e10dff31aeaa43391c6cd4782242126775ec"
+    },
+    {
+      "file": "downloads/libusb-1.0.30.tar.bz2",
+      "urls": [
+        "https://github.com/libusb/libusb/releases/download/v1.0.30/libusb-1.0.30.tar.bz2"
+      ],
+      "size_bytes": 656112,
+      "sha256": "fea36f34f9156400209595e300840767ab1a385ede1dc7ee893015aea9c6dbaf"
+    }
+  ]
+}
